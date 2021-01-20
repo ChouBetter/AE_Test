@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:17:58	11032/11032	---M--	200	added ('OK')	text/html	date:Tue,%2019%20Jan%202021%2006:52:26%20GMT	http://tangfreelancer.com/ae_official/contact-us.html	C:/Users/victor.liu/Desktop/AE/AE/tangfreelancer.com/ae_official/contact-us.html	(from )
+12:17:58	315/315	---M--	404	error ('Not%20Found')	text/html	date:Wed,%2020%20Jan%202021%2004:17:57%20GMT	http://tangfreelancer.com/robots.txt		(from )
