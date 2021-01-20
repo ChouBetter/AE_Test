@@ -1,11 +1,57 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Jan 2021 12:17:58 at http://tangfreelancer.com/ae_official/contact-us.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
-(winhttrack -qwr1%e0C2%Ps2u1%s%uN0%I0p3DaK0c1R2H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "zh_TW, en, *" http://tangfreelancer.com/ae_official/contact-us.html -O1 "C:\Users\victor.liu\Desktop\AE\AE" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 20 Jan 2021 17:17:51 at http://tangfreelancer.com/ae_official/contact-us.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr3%e3C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://tangfreelancer.com/ae_official/contact-us.html -O1 "C:\Users\Better.Chou\Documents\web1\web1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.eot (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.eot? (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.woff2 (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.woff (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.ttf (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/css/fonts/glyphicons-halflings-regular.svg (from tangfreelancer.com/ae_official/css/vendor/bootstrap.min.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_pin_g_md.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_addToCollection_sm.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_addToCar_sm.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_home_g.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_mobile_g.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_pin_g_sm.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_user_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_shoppingcart_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_shopping_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_user_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_location_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_myorder_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_mycollection_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_creditcard_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_bonus_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_coupon_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_mycar_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_reserve_red.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_triangle_down_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_member_center.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_emial.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_fb.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_line.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_arrow_up_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_hot_w.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_share_fb.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_share_line.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_register_success.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_loginType_fb.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_loginType_line.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_prev_b.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/images/common/icon_next_b.svg (from tangfreelancer.com/ae_official/css/all.css)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/bussiness.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/white-label.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/ae-sexy.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/ae-lottery.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/ae-cricket.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/ae-gaming.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/ae-esports.html (from tangfreelancer.com/ae_official/index.html)
+17:27:57	Error: 	"Not Found" (404) at link tangfreelancer.com/ae_official/product-whhite-lable.html (from tangfreelancer.com/ae_official/about.html)
 
-HTTrack Website Copier/3.49-2 mirror complete in 0 seconds : 2 links scanned, 1 files written (11032 bytes overall) [11718 bytes received at 11718 bytes/sec]
-(No errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 51 seconds : 281 links scanned, 234 files written (16141821 bytes overall) [16212345 bytes received at 24903 bytes/sec], 3224 bytes transferred using HTTP compression in 1 files, ratio 55%
+(46 errors, 0 warnings, 0 messages)
